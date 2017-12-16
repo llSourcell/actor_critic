@@ -2,7 +2,7 @@
 This is the code for "Actor Critic Algorithms" by Siraj Raval on Youtube 
 
 
-# Coding Challenge - Due Date, Thursday Dec 21 2017 
+# Coding Challenge - Due Date, Thursday Dec 21 2017 at 12 PM PST
 
 Generate Music using AI! Check out the demos page for magenta [here](https://github.com/tensorflow/magenta-demos). Train a model to generate a song. Submit your code in the youtube comments section of the video and tweet [@tarynsouthern](https://twitter.com/TarynSouthern) and [@sirajraval](https://twitter.com/sirajraval) your generated song! She'll perform the winning piece. Good luck!
 
